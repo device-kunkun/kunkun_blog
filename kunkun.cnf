@@ -1,0 +1,5 @@
+[client]
+database = kunkun_blog
+user = root
+password = 200494Trc
+default-character-set = utf8
